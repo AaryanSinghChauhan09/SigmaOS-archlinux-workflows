@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-workflows"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-workflows component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
